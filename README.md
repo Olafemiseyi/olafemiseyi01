@@ -32,4 +32,4 @@ Here are some of my recent data analysis case studies:
 ## ✉️ Let's Connect!
 
 * [LinkedIn](https://www.linkedin.com/in/olafemiseyi)
-* [Email](olatunbosunfemi5@gmail.com)
+* [Email](mailto:olatunbosunfemi5@gmail.com)
